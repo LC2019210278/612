@@ -1,0 +1,4 @@
+
+<view class='young'>植男植女养殖系统</view>
+<button class="btn1" bindtap="navigate">查看设备回传数据</button>
+

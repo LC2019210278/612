@@ -1,0 +1,16 @@
+/* start.wxss */
+.young{
+
+text-align: center;
+font-size:20px;
+}
+
+
+
+.btn1{
+  
+  
+  
+  margin-top:50px;
+  width: 60%;
+}
